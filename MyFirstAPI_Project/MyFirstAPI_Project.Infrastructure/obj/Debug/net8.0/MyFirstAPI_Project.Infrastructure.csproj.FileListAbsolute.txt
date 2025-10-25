@@ -1,0 +1,14 @@
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IMPS301\MyFirstAPI_Project\MyFirstAPI_Project.Infrastructure\bin\Debug\net8.0\MyFirstAPI_Project.Infrastructure.deps.json
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IMPS301\MyFirstAPI_Project\MyFirstAPI_Project.Infrastructure\bin\Debug\net8.0\MyFirstAPI_Project.Infrastructure.runtimeconfig.json
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IMPS301\MyFirstAPI_Project\MyFirstAPI_Project.Infrastructure\bin\Debug\net8.0\MyFirstAPI_Project.Infrastructure.dll
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IMPS301\MyFirstAPI_Project\MyFirstAPI_Project.Infrastructure\bin\Debug\net8.0\MyFirstAPI_Project.Infrastructure.pdb
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IMPS301\MyFirstAPI_Project\MyFirstAPI_Project.Infrastructure\obj\Debug\net8.0\MyFirstAPI_Project.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IMPS301\MyFirstAPI_Project\MyFirstAPI_Project.Infrastructure\obj\Debug\net8.0\MyFirstAPI_Project.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IMPS301\MyFirstAPI_Project\MyFirstAPI_Project.Infrastructure\obj\Debug\net8.0\MyFirstAPI_Project.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IMPS301\MyFirstAPI_Project\MyFirstAPI_Project.Infrastructure\obj\Debug\net8.0\MyFirstAPI_Project.Infrastructure.AssemblyInfo.cs
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IMPS301\MyFirstAPI_Project\MyFirstAPI_Project.Infrastructure\obj\Debug\net8.0\MyFirstAPI_Project.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IMPS301\MyFirstAPI_Project\MyFirstAPI_Project.Infrastructure\obj\Debug\net8.0\MyFirstAPI_Project.Infrastructure.dll
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IMPS301\MyFirstAPI_Project\MyFirstAPI_Project.Infrastructure\obj\Debug\net8.0\refint\MyFirstAPI_Project.Infrastructure.dll
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IMPS301\MyFirstAPI_Project\MyFirstAPI_Project.Infrastructure\obj\Debug\net8.0\MyFirstAPI_Project.Infrastructure.pdb
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IMPS301\MyFirstAPI_Project\MyFirstAPI_Project.Infrastructure\obj\Debug\net8.0\MyFirstAPI_Project.Infrastructure.genruntimeconfig.cache
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IMPS301\MyFirstAPI_Project\MyFirstAPI_Project.Infrastructure\obj\Debug\net8.0\ref\MyFirstAPI_Project.Infrastructure.dll
